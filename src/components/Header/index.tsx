@@ -18,6 +18,10 @@ export function Header() {
         <Dialog.Root>
           <Dialog.Trigger asChild>
             <NewContactButton>
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
               Contatos
             </NewContactButton>
           </Dialog.Trigger>
